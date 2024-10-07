@@ -15,6 +15,7 @@ A list of tags that are currently used in different entries:
 
 * array
 * borrow
+* closures
 * effects
 * futhark
 * gc
@@ -23,6 +24,7 @@ A list of tags that are currently used in different entries:
 * mutable
 * mutation
 * rc
+* regions
 * secondclass
 * secondclassdata
 * secondclassint
