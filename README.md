@@ -20,6 +20,7 @@ A list of tags that are currently used in different entries:
 * futhark
 * gc
 * io
+* joinpoints
 * linear
 * mutable
 * mutation
